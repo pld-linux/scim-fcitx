@@ -1,7 +1,7 @@
 Summary:	FCITX Input Method Engine for SCIM
 Name:		scim-fcitx
 Version:	3.1.1
-Release:	0.1
+Release:	1
 License:	GPL v2+
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/scim/%{name}.%{version}.tar.bz2
